@@ -1,5 +1,11 @@
-### Hi there 👋
-
+<h1 align="center"> Hi there 👋 <h1>
+<p align="center">
+  <img
+       src="https://raw.githubusercontent.com/drendog/drendog/master/bug.gif"
+       alt="bug"
+       width="150"
+    >
+</p>
 <!--
 **drendog/drendog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
