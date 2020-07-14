@@ -3,7 +3,7 @@
     width="150"
     align="right"
     >
-# Hello there \<coders/> 👋 
+# Hello World! 👋 
 <!-- 
 **drendog/drendog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
