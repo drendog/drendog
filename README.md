@@ -5,7 +5,7 @@
     >
 # Hello World! 👋 
 
-![HitCount](http://hits.dwyl.com/drendog/drendog.svg)
+![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2Fdrendog)
 
 <!-- 
 **drendog/drendog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
