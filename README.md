@@ -4,8 +4,7 @@
     align="right"
     >
 <h1 align="center"> Hi there 👋 <h1>
-heart Drawing | black_heart Hip-Hop | blue_heart Programmingheart Drawing | black_heart Hip-Hop | blue_heart Programming
-<!--
+<!-- 
 **drendog/drendog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
