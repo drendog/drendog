@@ -4,6 +4,9 @@
     align="right"
     >
 # Hello World! 👋 
+
+![HitCount](http://hits.dwyl.com/drendog/drendog.svg)
+
 <!-- 
 **drendog/drendog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
