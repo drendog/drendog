@@ -1,11 +1,10 @@
-<h1 align="center"> Hi there 👋 <h1>
-<p align="center">
-  <img
-       src="https://raw.githubusercontent.com/drendog/drendog/master/bug.gif"
-       alt="bug"
-       width="150"
+<img src="https://raw.githubusercontent.com/drendog/drendog/master/bug.gif" 
+    alt="bug"
+    width="150"
+    align="right"
     >
-</p>
+<h1 align="center"> Hi there 👋 <h1>
+heart Drawing | black_heart Hip-Hop | blue_heart Programmingheart Drawing | black_heart Hip-Hop | blue_heart Programming
 <!--
 **drendog/drendog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
