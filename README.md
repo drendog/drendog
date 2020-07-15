@@ -5,6 +5,8 @@
     >
 # Hello World! 👋 
 
+[![drendog's github stats](https://github-readme-stats.vercel.app/api?username=drendog&show_icons=true)](https://github.com/drendog/)
+
 [![HitCount](http://hits.dwyl.com/drendog/drendog.svg)](http://hits.dwyl.com/drendog/drendog)
 
 <!-- 
