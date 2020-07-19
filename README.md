@@ -7,7 +7,7 @@
 
 [![drendog's github stats](https://github-readme-stats.vercel.app/api?username=drendog&show_icons=true)](https://github.com/drendog/)
 
-[![HitCount](http://hits.dwyl.com/drendog/drendog.svg)](http://hits.dwyl.com/drendog/drendog)
+[![HitCount](http://hits.dwyl.com/drendog.svg)](http://hits.dwyl.com/drendog)
 
 <!-- 
 **drendog/drendog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
