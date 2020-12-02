@@ -7,7 +7,7 @@
 
 [![drendog's github stats](https://github-readme-stats.vercel.app/api?username=drendog&show_icons=true&title_color=604890&icon_color=604890)](https://github.com/drendog/)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&title_color=604890&icon_color=604890)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&title_color=604890&icon_color=604890&langs_count=10)](https://github.com/drendog/)
 
 <!-- 
 **drendog/drendog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
