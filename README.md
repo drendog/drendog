@@ -7,7 +7,7 @@
 # Hello World! 👋 
 
 <img src="https://github-readme-stats.vercel.app/api?username=drendog&show_icons=true&bg_color=0d1117&text_color=f8e3a1&title_color=f9826c&icon_color=6e40c9">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&bg_color=0d1117&text_color=f8e3a1&title_color=f9826c&icon_color=6e40c9&langs_count=10&hide=HTML">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=drendog&layout=compact&bg_color=0d1117&text_color=f8e3a1&title_color=f9826c&icon_color=6e40c9&langs_count=10&hide=HTML">
 
 
 <!-- 
