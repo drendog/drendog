@@ -11,5 +11,3 @@
         </td>
     </tr>
 </table>
-
-<img src="https://raw.githubusercontent.com/drendog/drendog/master/bug.gif" alt="bug" width="150" align="right">
