@@ -11,3 +11,4 @@
         </td>
     </tr>
 </table>
+<p align="right"><i><s>Follow me on Facebook, Instagram, Whatsapp</s></i></p>
