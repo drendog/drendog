@@ -15,6 +15,6 @@
     <i>
         <s>Follow me on Facebook, Instagram, Whatsapp!</s>
         <br>
-        No one needs ego extractors to prove what they think they are in their life.
+        No one needs ego extractors to prove they are who they think they are in their life.
     </i>
 </p>
