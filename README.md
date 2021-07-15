@@ -11,4 +11,10 @@
         </td>
     </tr>
 </table>
-<p align="right"><i><s>Follow me on Facebook, Instagram, Whatsapp!</s></i></p>
+<p align="right">
+    <i>
+        <s>Follow me on Facebook, Instagram, Whatsapp!</s>
+        <br>
+        No one needs ego extractors to prove what they think they are in their life.
+    </i>
+</p>
