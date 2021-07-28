@@ -1,4 +1,6 @@
-<img src="welcome.svg" alt="Welcome">
+<a href="/#choose-pinned-repositories">
+    <img src="welcome.svg" alt="Welcome">
+</a>
 <table>
     <tr>
         <td>
