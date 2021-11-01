@@ -17,6 +17,6 @@
     <i>
         <s>Follow me on Facebook, Instagram, Whatsapp!</s>
         <br>
-        No one needs ego miners to prove they are what they think they are in their world.
+        No one needs ego scrapers/miners to prove they are what they think they are in their world.
     </i>
 </p>
