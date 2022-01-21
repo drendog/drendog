@@ -13,10 +13,3 @@
         </td>
     </tr>
 </table>
-<p align="right">
-    <i>
-        <s>Follow me on Facebook, Instagram, Whatsapp!</s>
-        <br>
-         No one needs implicit ego miners to show or prove that they are who they think they are in their world. 
-    </i>
-</p>
