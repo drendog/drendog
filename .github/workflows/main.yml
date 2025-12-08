@@ -29,7 +29,7 @@ jobs:
           template: classic
           base: header, activity, community, repositories, metadata
           base_indepth: yes
-          config_display: large
+          config_display: regular
           config_octicon: yes
           config_timezone: Europe/Rome
           config_twemoji: yes
@@ -59,7 +59,3 @@ jobs:
           plugin_notable_from: organization
           plugin_notable_repositories: yes
           plugin_notable_types: commit
-          plugin_stargazers: yes
-          plugin_stargazers_charts: yes
-          plugin_stargazers_charts_type: classic
-          plugin_stargazers_days: 14
